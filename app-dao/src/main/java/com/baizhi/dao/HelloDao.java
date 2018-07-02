@@ -12,4 +12,5 @@ public class HelloDao {
         System.out.println("Hello Dev");
     }
     public void m2(){}
+    public void a(){}
 }
