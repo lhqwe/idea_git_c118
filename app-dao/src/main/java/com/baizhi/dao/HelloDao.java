@@ -8,6 +8,8 @@ public class HelloDao {
         return "name:"+name;
     }
 
-    public void m1(){}
+    public void m1(){
+        System.out.println("Hello Dev");
+    }
     public void m2(){}
 }
